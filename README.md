@@ -1,2 +1,0 @@
-# EllsEnglishAppAndroid
-Ells English App
